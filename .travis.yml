@@ -1,6 +1,2 @@
-language: php
-php:
-- 5.5
-- 5.4
-- hhvm
-script: phpunit index.html
+language: html
+script: index.html
